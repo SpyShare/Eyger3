@@ -118,7 +118,7 @@ $SpyShare = (5..10).inject { |geT_Send, serverP| geT_Send + serverP }
        print 'ip address'+': '.red+lines.at(4).cyan
        print 'Country'+': '.red+lines.at(7).blue
        print 'City'+': '.red+lines.at(5).green
-       print 'Refion'+': '.red+lines.at(6).yellow
+       print 'Region'+': '.red+lines.at(6).yellow
        print 'Net By'+': '.red+lines.at(8).cyan
        print 'Net Host'+': '.red+lines.at(9).magenta
        print 'Local ip'+': '.red+lines.at(10).green
